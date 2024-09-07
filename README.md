@@ -118,11 +118,13 @@ Several plots are generated to better understand the data and the performance of
 - **Correlation Heatmap:** Displays the correlation between stocks.
 - **Joint and Pair Plots:** Comparing the returns between different companies.
 
+![Visualizations](viz.png)
+
 
 ## Results
 
 The trained model makes predictions on stock prices, and the performance is visualized through the comparison of actual vs. predicted prices.
-![Predicted Prices](predicted_prices.png)
+![Predicted Prices](predicted.png)
 
 
 ## Future Improvements
